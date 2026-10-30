@@ -19,7 +19,7 @@ img/galeria/        fotos dos projetos
 
 ## Como editar
 - **Fotos da galeria:** coloque o arquivo em `img/galeria/` e, em `index.html`, copie um bloco `<button class="g">` da seção "GALERIA", trocando `src` e `alt`. Tamanhos: sem classe (normal), `wide` (larga), `tall` (alta), `big` (grande).
-- **Prints das avaliações:** em `index.html`, troque os blocos `<div class="pr">` por uma `<img>` (há um comentário mostrando como).
+- **Prints das avaliações:** coloque a imagem em `img/avaliacoes/` e, em `index.html`, copie um bloco `<figure class="print">` da seção "CLIENTES", trocando `src` e `alt`.
 - **Ambientes:** copie um bloco `<button class="amb">` da seção "AMBIENTES".
 - **Facebook:** troque o link de busca pelo endereço da página (procure por `facebook.com/search` no `index.html`; aparece em 2 lugares).
 - **WhatsApp:** o número aparece como `5511983986998` no `index.html` e no topo de `js/main.js`.
